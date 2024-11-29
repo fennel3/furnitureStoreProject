@@ -1,0 +1,19 @@
+{
+  "name": "module08",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Finn",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "connect-cors": "^0.5.6",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "promise-mysql": "^5.2.0"
+  }
+}
